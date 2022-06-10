@@ -2,7 +2,7 @@
 
 ## Contacts
 * Krasnodar, Russia
-* Github.com/m3ll1v0ra
+* [Github.com/m3ll1v0ra](https://github.com/m3ll1v0ra)
 * Discord: m3ll1v0ra#0840
 
 ## About me
@@ -21,8 +21,8 @@ function multiply(a, b){
 ```
 
 ## Education
-* Master of Economics in KubSU
-* "JavaScript/Front-end. Stage 0" in The Rolling Scopes
+* [Master of Economics in KubSU](https://www.kubsu.ru/en)
+* [JavaScript/Front-end. Stage 0" in The Rolling Scopes](https://rs.school/js-stage0/)
 
 ## Languages
  * Russian - Nativ
